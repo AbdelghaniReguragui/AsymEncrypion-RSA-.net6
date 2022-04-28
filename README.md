@@ -53,11 +53,11 @@ Returns encrypted text / decrypted text in string format (Base6)
         return Encoding.UTF8.GetString(decryptedData);
     }
 
-#N.B: Public key, private key, and key size are initializing the first 
+#N.B: Public key, private key, and key size are initializing the first in the constructor
+    
     private readonly string _publicKey;
     private readonly string _privateKey;
     private readonly int _keySize;
-
     public RsaEncrypter(string publicKey, string privateKey, int keySize)
     {
         _publicKey = publicKey;
