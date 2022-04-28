@@ -1,0 +1,15 @@
+/home/abdelghani/RiderProjects/AsymEncryption/RsaImplementation/bin/Debug/net6.0/RsaImplementation
+/home/abdelghani/RiderProjects/AsymEncryption/RsaImplementation/bin/Debug/net6.0/RsaImplementation.deps.json
+/home/abdelghani/RiderProjects/AsymEncryption/RsaImplementation/bin/Debug/net6.0/RsaImplementation.runtimeconfig.json
+/home/abdelghani/RiderProjects/AsymEncryption/RsaImplementation/bin/Debug/net6.0/RsaImplementation.dll
+/home/abdelghani/RiderProjects/AsymEncryption/RsaImplementation/bin/Debug/net6.0/RsaImplementation.pdb
+/home/abdelghani/RiderProjects/AsymEncryption/RsaImplementation/obj/Debug/net6.0/RsaImplementation.csproj.AssemblyReference.cache
+/home/abdelghani/RiderProjects/AsymEncryption/RsaImplementation/obj/Debug/net6.0/RsaImplementation.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdelghani/RiderProjects/AsymEncryption/RsaImplementation/obj/Debug/net6.0/RsaImplementation.AssemblyInfoInputs.cache
+/home/abdelghani/RiderProjects/AsymEncryption/RsaImplementation/obj/Debug/net6.0/RsaImplementation.AssemblyInfo.cs
+/home/abdelghani/RiderProjects/AsymEncryption/RsaImplementation/obj/Debug/net6.0/RsaImplementation.csproj.CoreCompileInputs.cache
+/home/abdelghani/RiderProjects/AsymEncryption/RsaImplementation/obj/Debug/net6.0/RsaImplementation.dll
+/home/abdelghani/RiderProjects/AsymEncryption/RsaImplementation/obj/Debug/net6.0/refint/RsaImplementation.dll
+/home/abdelghani/RiderProjects/AsymEncryption/RsaImplementation/obj/Debug/net6.0/RsaImplementation.pdb
+/home/abdelghani/RiderProjects/AsymEncryption/RsaImplementation/obj/Debug/net6.0/RsaImplementation.genruntimeconfig.cache
+/home/abdelghani/RiderProjects/AsymEncryption/RsaImplementation/obj/Debug/net6.0/ref/RsaImplementation.dll
