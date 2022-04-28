@@ -1,1 +1,1 @@
-# Rsa implementation with .net 6
+# Rsa algorithm implementation with .net 6
