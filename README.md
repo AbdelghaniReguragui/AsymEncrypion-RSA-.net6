@@ -8,7 +8,7 @@ Then encrypd by the public key & decrypt by the private key
 Returns encrypted text / decrypted text in string format (Base6)
 
 # Encrypt method
-public string Encrypt(string text)
+    public string Encrypt(string text)
     {
         byte[] encrypted;
         var bytesToEncrypt = Encoding.UTF8.GetBytes(text);
@@ -30,7 +30,7 @@ public string Encrypt(string text)
     }
     
 # Decrypt method
-public string Decrypt(string encryptedText)
+    public string Decrypt(string encryptedText)
     {
         byte[] decryptedData;
         byte[] dataToDecrypt = Convert.FromBase64String(encryptedText);
